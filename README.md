@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @suatt-prog
-- 👀 I’m interested in app development and automation
-- 🌱 I’m currently learning C# language
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in app development and web development
+- 🌱 I’m currently learning C# and Javascript languages
 - 📫 How to reach me suattopcu13@gmail.com
 
 <!---
